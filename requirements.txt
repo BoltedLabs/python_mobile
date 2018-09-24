@@ -1,0 +1,2 @@
+phonenumbers==8.9.14
+pyserial==3.4
